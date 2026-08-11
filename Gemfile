@@ -7,13 +7,13 @@ gem "github-pages"
 # If you end up with issues running github-pages on your local machine, 
 # delete gem github-pages and uncomment the gems below
 
-gem 'jekyll'
+# gem 'jekyll'
 gem 'webrick'
 gem 'logger'
 gem 'base64'
 gem 'ostruct'
 gem 'rake'
 gem 'mini_magick'
-gem 'csv'
+gem 'csv', '3.2.8'
 gem 'bigdecimal'
 gem 'sprockets', '~> 3.7'

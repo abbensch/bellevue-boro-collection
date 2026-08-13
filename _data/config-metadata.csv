@@ -6,9 +6,9 @@ doc,Date of Birth,
 residence,Residence at time of Documentation,
 description,Description,
 subject,Subjects,true
-location,Location
-originallyfrom,Immigrated From
-immigrationarrival,Immigration Arrival Date
+location,Location,
+originallyfrom,Immigrated From,
+immigrationarrival,Immigration Arrival Date,
 source,Source
 identifier,Source Identifier,,
 type,Type,

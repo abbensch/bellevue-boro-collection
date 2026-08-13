@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
-doc,Date of Birth,
+dob,Date of Birth,
 residence,Residence at time of Documentation,
 description,Description,
 subject,Subjects,true
